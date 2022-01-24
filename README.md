@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there. My name is Cody 👋
 
+### My toolbox
+
+---
+
+![typescript image](https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_64x64.png) ![react image](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png) ![html image](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png)
 <!--
 **codyconway77/codyconway77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
